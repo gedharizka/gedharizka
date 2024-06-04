@@ -8,6 +8,10 @@ I am just a typist who keeps learning about software development. Currently, my 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gedharizka) 
 
 ## 👜 Work Experience
+
+**Bank Syariah Indonesia** <br /> Devops
+<br /> December 2023 - present
+
 **GoTo Impact Fondation** <br /> Class Contributor | Software Quality Assurance
 <br /> July 2023 - August 2023
 
