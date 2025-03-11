@@ -9,6 +9,9 @@ I am just a typist who keeps learning about software development. Currently, my 
 
 ## 👜 Work Experience
 
+**PT.Sistema Datapilar** <br /> Devops
+<br /> November 2024 - Present
+
 **Bank Syariah Indonesia** <br /> Devops
 <br /> December 2023 - present
 
